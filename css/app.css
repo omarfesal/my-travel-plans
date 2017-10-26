@@ -53,3 +53,12 @@ h2 {
 #paris {
     background-color: #d32f2f;
 }
+
+.title{
+    color: red;
+    display: block;
+    margin: 0 auto;
+    position: absolute;
+    top: 10px;
+    background: blue
+}
